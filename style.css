@@ -1,0 +1,42 @@
+body{
+    /* background-color: #000000; */
+    color: #d01919;
+}
+
+img{
+    width: fit-content;
+    height: fit-content;
+    margin: 0 auto;
+    display: block;
+}
+
+.title{
+    text-align: center;
+    font-size: 40px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    text-decoration: none;
+    text-align: center;
+}
+
+.link1:hover{
+    text-decoration: none;
+    color: #d01919;
+}
+
+.link2:hover{
+    text-decoration: none;
+    color: #ebee0a;
+}
+
+.link3:hover{
+    text-decoration: none;
+    color: #09ea89;
+}
