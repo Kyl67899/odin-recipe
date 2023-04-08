@@ -1,0 +1,36 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    /* background-image: url("https://i.pinimg.com/736x/07/98/71/079871603f25bbd0330b689c1996f370.jpg"); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+}
+
+h1, .descrip{
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+    margin: 15px 0 0 15px;
+}
+
+.info a:hover{
+    color: #333;
+    text-decoration: none;
+}
+
+.home{
+    text-align: center;
+    color: black;
+}
+
+.home a:hover{
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+}
