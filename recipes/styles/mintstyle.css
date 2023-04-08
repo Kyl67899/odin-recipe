@@ -1,0 +1,43 @@
+body{
+    width: fit-content;
+    height: fit-content;
+    background-color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+.descrip{
+    text-align: center;
+}
+
+li{
+    color: black;
+}
+
+.info{
+    text-align: center;
+    margin: 15px 0 0 15px;
+}
+
+.info a:hover{
+    color: #333;
+    text-decoration: none;
+}
+
+.home{
+    text-align: center;
+}
+
+.home a:hover{
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+}
